@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RwPtn3sl56PmFvd8RR7upc6YOg7GjRt9MlMey3fckq39ZMw48MM6X09EuI34ZY+DQU7GT86ogcmxL05uX0Bxmw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\DEVELOPMENT\\NewTalents\\NewTalents\\NewTalents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vschn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\vschn\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\vschn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\vschn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
